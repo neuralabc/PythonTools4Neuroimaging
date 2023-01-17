@@ -2,7 +2,7 @@
 Collection of jupyter notebooks (originally for use with google colab) to aid in practical learning of python tools for neuroimaging research
 
 # Additional resources for fMRI analyses in Python
-1. https://peerherholz.github.io/workshop_weizmann/data/image_manipulation_nilearn.html
+1. https://peerherholz.github.io/workshop_weizmann/index.html
 
 # Additional (general) Python Programming Resources
 1. Software carpentry - https://swcarpentry.github.io/python-novice-inflammation/
